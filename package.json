@@ -1,0 +1,18 @@
+{
+	"name": "ecommerce-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js",
+		"start": "node index.js",
+		"prepare": "husky"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"husky": "^9.1.7",
+		"lint-staged": "^15.2.11",
+		"typescript": "^5.7.2"
+	}
+}
